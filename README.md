@@ -1,2 +1,2 @@
 # FG-SCS-SSM
-Lightweight design of FG-SCSs based on SSM
+File "SSM_lightweight" is lightweight design under linear buckling and file "HSM_lightweight" is lightweight design under post-buckling.
